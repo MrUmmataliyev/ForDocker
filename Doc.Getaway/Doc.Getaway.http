@@ -1,0 +1,6 @@
+@Doc.Getaway_HostAddress = http://localhost:5022
+
+GET {{Doc.Getaway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
